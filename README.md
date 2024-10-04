@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**ahmyi/ahmyi** is a ✨ _special_ ✨ repository because its `README.md` appears on this GitHub profile.
-
 Here are some ideas to get you started with me, ahmyi:
 <!--
 - 🔭 I’m is currently working on ...
